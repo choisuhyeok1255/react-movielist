@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-movielist/static/css/main.855aba8e.chunk.css",
+    "main.js": "/react-movielist/static/js/main.4ee9209b.chunk.js",
+    "main.js.map": "/react-movielist/static/js/main.4ee9209b.chunk.js.map",
+    "runtime-main.js": "/react-movielist/static/js/runtime-main.96e33bf7.js",
+    "runtime-main.js.map": "/react-movielist/static/js/runtime-main.96e33bf7.js.map",
+    "static/js/2.ec7974c9.chunk.js": "/react-movielist/static/js/2.ec7974c9.chunk.js",
+    "static/js/2.ec7974c9.chunk.js.map": "/react-movielist/static/js/2.ec7974c9.chunk.js.map",
+    "static/js/3.ec0a67bb.chunk.js": "/react-movielist/static/js/3.ec0a67bb.chunk.js",
+    "static/js/3.ec0a67bb.chunk.js.map": "/react-movielist/static/js/3.ec0a67bb.chunk.js.map",
+    "index.html": "/react-movielist/index.html",
+    "static/css/main.855aba8e.chunk.css.map": "/react-movielist/static/css/main.855aba8e.chunk.css.map",
+    "static/js/2.ec7974c9.chunk.js.LICENSE.txt": "/react-movielist/static/js/2.ec7974c9.chunk.js.LICENSE.txt",
+    "static/media/Magnify.ffce8683.svg": "/react-movielist/static/media/Magnify.ffce8683.svg",
+    "static/media/logo.6ce24c58.svg": "/react-movielist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e33bf7.js",
+    "static/js/2.ec7974c9.chunk.js",
+    "static/css/main.855aba8e.chunk.css",
+    "static/js/main.4ee9209b.chunk.js"
+  ]
+}
